@@ -7,6 +7,8 @@ In order to run the script, the needed environment variables are needed:
 * ``NEO4J_USER`` - Default is `neo4j`
 * ``NEO4J_PASS`` - Default is `password`
 
+Remember to change the Neo4J default credentials in [docker-compose.yml](docker-compose.yml). The environment values above should match those defined there.
+
 And the optional variable to increase rate limits:
 * `GITHUB_TOKEN` - This should be a Personal Access Token with access to the `Followers` scope.
 
