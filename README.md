@@ -33,4 +33,4 @@ An example of a small sample of a visualization can be seen here:
 
 
 A zoomed out example of a larger visualization:
-![Large visualization](images/visualization_large_.png)
+![Large visualization](images/visualization_large.png)
